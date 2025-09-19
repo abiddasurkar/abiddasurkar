@@ -11,7 +11,7 @@ import ContactPage from './pages/ContactPage';
 const App = () => {
   return (
     <AppProvider>
-      <Router>
+      <Router basename="/abid-portfolio">
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<HomePage />} />
