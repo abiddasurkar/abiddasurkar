@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abid-portfolio/static/css/main.590194b7.css",
+    "main.js": "/abid-portfolio/static/js/main.646414d0.js",
+    "index.html": "/abid-portfolio/index.html",
+    "main.590194b7.css.map": "/abid-portfolio/static/css/main.590194b7.css.map",
+    "main.646414d0.js.map": "/abid-portfolio/static/js/main.646414d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.590194b7.css",
+    "static/js/main.646414d0.js"
+  ]
+}
