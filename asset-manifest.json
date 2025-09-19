@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/abid-portfolio/static/css/main.b87a37eb.css",
-    "main.js": "/abid-portfolio/static/js/main.5bd4a5fe.js",
-    "index.html": "/abid-portfolio/index.html",
-    "main.b87a37eb.css.map": "/abid-portfolio/static/css/main.b87a37eb.css.map",
-    "main.5bd4a5fe.js.map": "/abid-portfolio/static/js/main.5bd4a5fe.js.map"
+    "main.css": "/portfolio/static/css/main.b87a37eb.css",
+    "main.js": "/portfolio/static/js/main.a2dc8776.js",
+    "index.html": "/portfolio/index.html",
+    "main.b87a37eb.css.map": "/portfolio/static/css/main.b87a37eb.css.map",
+    "main.a2dc8776.js.map": "/portfolio/static/js/main.a2dc8776.js.map"
   },
   "entrypoints": [
     "static/css/main.b87a37eb.css",
-    "static/js/main.5bd4a5fe.js"
+    "static/js/main.a2dc8776.js"
   ]
 }
