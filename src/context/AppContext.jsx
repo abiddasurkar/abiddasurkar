@@ -4,7 +4,7 @@ import React, { createContext, useContext, useReducer } from 'react';
 const initialState = {
   user: {
     name: 'Abid Dasurkar',
-    title: 'Senior Frontend Developer',
+    title: 'Frontend Developer',
     email: 'abiddasurkar@gmail.com',
     phone: '+91-8275434589',
     location: 'Pune, India',
@@ -13,9 +13,10 @@ const initialState = {
   theme: 'light',
   loading: false,
   contactForm: {
-    name: '',
-    email: '',
-    message: ''
+  name: '',
+  email: '',
+  subject: '',
+  message: ''
   }
 };
 
